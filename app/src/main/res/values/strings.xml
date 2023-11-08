@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ShopeeFake</string>
+
+    <string name="content_des">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_email_id">Email ID</string>
+    <string name="et_hint_password">Password</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="btn_lbl_login">Login</string>
+    <string name="don_t_have_an_account">No Account</string>
+    <string name="register"><u>Register</u></string>
+
+    <string name="create_account">CREATE ACCOUNT</string>
+
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="et_hint_confim_password">Confim Password</string>
+
+    <string name="ok">ok t dong y</string>
+    <string name="btn_lbl_register">Register</string>
+
+    <string name="ok2">ok t dang nhap</string>
+    <string name="login"><u>Login</u></string>
+</resources>

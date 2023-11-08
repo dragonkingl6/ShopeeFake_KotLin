@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550754959754",
+    "project_id": "shopeefake-59080",
+    "storage_bucket": "shopeefake-59080.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550754959754:android:9f27cb302ab015a9efc873",
+        "android_client_info": {
+          "package_name": "duc.thanhhoa.shopeefake"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLtGCAV1NHEVWnrBZdZVSuS_P9a1cdJgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
